@@ -1,0 +1,28 @@
+Country name,Regional indicator,Ladder score,Logged GDP per capita,Social support,Healthy life expectancy,Freedom to make life choices,Generosity,Perceptions of corruption
+Finland,Western Europe,7.842,10.775,0.954,72.0,0.949,0.030,0.186
+Denmark,Western Europe,7.620,10.933,0.954,72.7,0.946,0.134,0.179
+Switzerland,Western Europe,7.571,11.117,0.942,74.4,0.919,0.105,0.292
+Iceland,Western Europe,7.554,10.878,0.983,73.0,0.955,0.247,0.673
+Netherlands,Western Europe,7.464,10.932,0.942,72.4,0.913,0.272,0.338
+Norway,Western Europe,7.392,11.053,0.954,73.3,0.960,0.207,0.270
+Sweden,Western Europe,7.363,10.867,0.934,72.7,0.945,0.202,0.237
+Luxembourg,Western Europe,7.324,11.647,0.908,72.6,0.907,0.073,0.386
+New Zealand,North America and ANZ,7.277,10.643,0.948,73.4,0.929,0.242,0.242
+Austria,Western Europe,7.268,10.906,0.934,73.3,0.908,0.144,0.481
+Australia,North America and ANZ,7.183,10.796,0.940,73.9,0.914,0.255,0.442
+Israel,Middle East and North Africa,7.157,10.575,0.939,73.5,0.800,0.143,0.753
+Germany,Western Europe,7.155,10.873,0.903,72.5,0.875,0.125,0.460
+Canada,North America and ANZ,7.103,10.776,0.926,73.8,0.915,0.189,0.415
+Ireland,Western Europe,7.085,11.342,0.947,72.4,0.879,0.157,0.363
+Costa Rica,Latin America and Caribbean,7.069,9.880,0.891,71.4,0.934,0.005,0.809
+United Kingdom,Western Europe,7.064,10.707,0.934,72.5,0.859,0.393,0.459
+Czech Republic,Central and Eastern Europe,6.965,10.556,0.947,70.8,0.858,0.000,0.868
+United States,North America and ANZ,6.951,11.023,0.920,68.2,0.837,0.190,0.698
+Belgium,Western Europe,6.834,10.823,0.906,72.1,0.792,0.038,0.646
+France,Western Europe,6.690,10.704,0.942,74.0,0.822,0.034,0.571
+Brazil,Latin America and Caribbean,6.330,9.577,0.882,66.6,0.804,0.035,0.756
+Japan,East Asia,5.940,10.611,0.884,75.1,0.796,0.000,0.638
+South Korea,East Asia,5.845,10.651,0.799,73.9,0.672,0.089,0.727
+China,East Asia,5.339,9.673,0.811,69.6,0.893,0.000,0.755
+India,South Asia,3.819,8.755,0.603,60.7,0.893,0.101,0.772
+Afghanistan,South Asia,2.523,7.695,0.463,52.4,0.382,0.036,0.924
