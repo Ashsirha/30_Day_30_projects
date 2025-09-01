@@ -46,3 +46,12 @@ project_08_credit_card_fraud_detection/
     jupyter notebook
     ```
 3.  Open and run the `credit_card_fraud.ipynb` notebook. The notebook will automatically fetch the required data.
+
+## Ethics & Considerations
+Fraud detection models can have significant impacts on individuals' lives. Ensure fairness by:
+- Monitoring for bias in predictions across demographic groups.
+- Regularly auditing model performance to avoid false positives.
+- Complying with data privacy regulations (e.g., GDPR).
+
+---
+*✨ Ash & AI: 2025-08-31 12:00 ET*

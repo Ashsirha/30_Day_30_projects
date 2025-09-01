@@ -57,3 +57,12 @@ The dataset used for this project is the "IBM HR Analytics Employee Attrition & 
 
 ## Ethical Considerations
 Employee data is sensitive. Ensure anonymization and limit access. Use the model only for retention support, not punitive action. Perform fairness analysis before any real-world use.
+
+## Ethics & Considerations
+Attrition prediction can influence hiring and retention decisions. Consider:
+- Avoiding bias based on protected characteristics (age, gender, etc.).
+- Ensuring transparency in model use.
+- Balancing business needs with employee well-being.
+
+---
+*✨ Ash & AI: 2025-08-31 12:00 ET*

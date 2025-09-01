@@ -43,3 +43,12 @@ BLEU-1..4, METEOR, CIDEr (optional). Track perplexity during training.
 - Switch to Transformer decoder
 - Use beam search with length normalization
 - Add attention heatmap visualization
+
+## Ethics
+Image captioning models can perpetuate biases present in training data. Ensure diverse and representative datasets are used. Avoid generating captions that could be harmful or misleading.
+
+## Reproducibility
+- Random seed: 42
+- Python version: 3.8+
+- Key libraries: TensorFlow 2.10+, NumPy 1.21+
+- Dataset version: Flickr8k from tensorflow_datasets

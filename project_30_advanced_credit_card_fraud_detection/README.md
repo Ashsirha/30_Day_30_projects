@@ -1,4 +1,4 @@
-# Project 23: Credit Card Fraud Detection
+# Project 30: Advanced Credit Card Fraud Detection
 
 ## Objective
 The objective of this project is to build a machine learning model to detect fraudulent credit card transactions. This is a classic example of an imbalanced classification problem, where the number of fraudulent transactions is very small compared to the number of legitimate transactions.
