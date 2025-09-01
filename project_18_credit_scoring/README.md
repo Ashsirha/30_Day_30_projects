@@ -49,3 +49,9 @@ The dataset used for this project is the "Credit Scoring" dataset. It contains v
 - Seaborn
 - Scikit-learn
 - Jupyter Notebook
+
+## Evaluation & Metrics
+Primary metrics: ROC-AUC, PR-AUC (for minority default class), KS statistic, Gini (2*ROC-AUC - 1), Brier score for probability calibration. Produce scorecard-style decile lift chart.
+
+## Fairness & Regulatory Notes
+Credit scoring is regulated. Assess disparate impact across sensitive groups (gender, age brackets if permissible). Consider reject inference only with proper methodology. Calibrate probabilities (Platt / Isotonic) before thresholding. Document data lineage and versioning of the model.

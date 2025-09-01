@@ -32,3 +32,10 @@ This project uses the **Iris** dataset, which is a classic dataset in machine le
 - Seaborn
 - Scikit-learn
 - Jupyter Notebook
+
+## Evaluation & Metrics
+Because anomalies are rare, prioritize:
+- ROC-AUC & PR-AUC (PR-AUC more informative under heavy imbalance)
+- Precision@k (top-k anomaly ranking)
+- Confusion matrix at chosen threshold
+Provide explanation of decision threshold selection and visualize score distribution.

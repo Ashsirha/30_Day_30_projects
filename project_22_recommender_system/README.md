@@ -31,3 +31,11 @@ This project uses the **MovieLens 1M** dataset, which contains 1 million ratings
 - NumPy
 - Matplotlib
 - Jupyter Notebook
+
+## Metrics
+RMSE (ratings), Precision@K, Recall@K, NDCG@K. Provide coverage & diversity metrics.
+
+## Enhancements
+- Add implicit feedback matrix factorization (ALS / BPR)
+- Cold-start strategy (content/metadata)
+- Re-rank for diversity / serendipity

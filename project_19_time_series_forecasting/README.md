@@ -37,3 +37,13 @@ This project uses the **Airline Passengers** dataset, which is a classic time se
 - Statsmodels
 - Scikit-learn
 - Jupyter Notebook
+
+## Metrics
+- MAE, RMSE, MAPE (primary)
+- sMAPE for symmetric error view
+- Rolling backtest average metrics
+
+## Enhancements
+- Add Prophet / SARIMAX comparison
+- Incorporate exogenous regressors (holiday flags)
+- Cross-validation with expanding window

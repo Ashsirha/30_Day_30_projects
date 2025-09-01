@@ -40,3 +40,14 @@ The dataset contains 30 features, which are principal components obtained with P
 - Scikit-learn
 - Imbalanced-learn
 - Jupyter Notebook
+
+## Advanced Scope (Distinct from Project 08)
+- Compare multiple imbalance strategies: SMOTE, SMOTEENN, Class Weights, Focal Loss
+- Real-time scoring latency evaluation
+- Threshold optimization based on cost matrix (False Negative >> False Positive)
+
+## Metrics
+Precision-Recall AUC (primary), ROC-AUC, F1 (fraud class), Matthews Correlation Coefficient, Expected Cost.
+
+## Ethics & Compliance
+Avoid unfair treatment of demographic groups; ensure no prohibited attributes are used. Log decisions for auditability.

@@ -34,3 +34,11 @@ This project uses the **IMDb movie review sentiment classification dataset**, wh
 - NumPy
 - Matplotlib
 - Jupyter Notebook
+
+## Metrics
+Accuracy, F1 (macro), ROC-AUC. Track training vs validation loss for overfitting detection.
+
+## Enhancements
+- Replace simple model with Bidirectional LSTM / 1D CNN
+- Use pre-trained embeddings (GloVe) or Transformer (DistilBERT)
+- Add misclassified review analysis & confusion matrix

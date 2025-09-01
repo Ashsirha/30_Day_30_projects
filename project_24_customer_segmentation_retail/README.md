@@ -44,3 +44,11 @@ The dataset used for this project is a sample of the "Online Retail" dataset fro
 - Seaborn
 - Scikit-learn
 - Jupyter Notebook
+
+## Metrics
+Silhouette score, Davies-Bouldin, Calinski-Harabasz. Business lift per segment (monetary value).
+
+## Enhancements
+- Try alternative clustering: Gaussian Mixture, HDBSCAN
+- Add customer lifetime value (CLV) estimation
+- Segment persona labeling automation

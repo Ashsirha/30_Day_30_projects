@@ -35,3 +35,11 @@ This project uses the **Flickr8k** dataset, which is a popular benchmark dataset
 - Matplotlib
 - Jupyter Notebook
 - NLTK (for BLEU score)
+
+## Metrics
+BLEU-1..4, METEOR, CIDEr (optional). Track perplexity during training.
+
+## Enhancements
+- Switch to Transformer decoder
+- Use beam search with length normalization
+- Add attention heatmap visualization

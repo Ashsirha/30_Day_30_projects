@@ -38,3 +38,15 @@ This approach allows us to build a spam detection model without relying on exter
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+
+## Metrics
+Primary: Precision, Recall, F1 for spam class; ROC-AUC & PR-AUC. Track false positive rate (important for user trust).
+
+## Enhancements (Planned)
+- Add character n-grams & hashing trick
+- Calibrated probabilities (CalibratedClassifierCV)
+- Ensemble (NB + Linear SVM)
+- Interpretability via top TF-IDF features
+
+## Ethical Notes
+Ensure dataset categories chosen as “spam” do not encode biased labeling; in production use curated spam corpora.

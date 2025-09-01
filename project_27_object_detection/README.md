@@ -33,3 +33,11 @@ This project uses the **Pascal VOC 2007** dataset, which is a standard benchmark
 - NumPy
 - Matplotlib
 - Jupyter Notebook
+
+## Metrics
+Mean Average Precision (mAP @[0.5:0.95]), per-class AP, inference FPS.
+
+## Enhancements
+- Anchor box optimization
+- Non-Max Suppression tuning & soft-NMS
+- Upgrade to Transformer-based detector (DETR) comparison

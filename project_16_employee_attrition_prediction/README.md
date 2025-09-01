@@ -48,3 +48,12 @@ The dataset used for this project is the "IBM HR Analytics Employee Attrition & 
 - Seaborn
 - Scikit-learn
 - Jupyter Notebook
+
+## Advanced Enhancements (Planned)
+- SHAP-based feature attribution
+- Cost-sensitive threshold optimization (expected value of intervention)
+- Fairness audit (gender, age attrition rate parity)
+- Calibration curve & Brier score
+
+## Ethical Considerations
+Employee data is sensitive. Ensure anonymization and limit access. Use the model only for retention support, not punitive action. Perform fairness analysis before any real-world use.

@@ -33,3 +33,11 @@ This project uses the **CNN/DailyMail** dataset, which is a well-known dataset f
 - Matplotlib
 - Jupyter Notebook
 - NLTK (for ROUGE score)
+
+## Metrics
+ROUGE-1/2/L (primary), optionally BERTScore for semantic similarity. Track training loss & validation ROUGE.
+
+## Enhancements
+- Switch to Transformer encoder-decoder (e.g., T5 / BART fine-tune)
+- Length control and redundancy penalty
+- Hallucination detection heuristics

@@ -8,129 +8,44 @@ Whether you're a student, job seeker, or data enthusiast, these projects will he
 
 ---
 
-## 📚 Project List & Descriptions
+## 📚 Project List (Aligned with Repository)
 
-Below is a list of all 30 projects with a short description and key skills you'll learn in each.
+Implemented / In Progress / Planned across the 30-folder structure:
 
-1. **Titanic Survival Prediction**  
-   Predict passenger survival using machine learning on the Titanic dataset.  
-   *Skills: Data cleaning, feature engineering, classification (Logistic Regression, Random Forest), EDA.*
+1. Titanic Survival Classification – Tabular binary classification (Kaggle).  
+2. Movie Recommendation System – Collaborative filtering baseline.  
+3. Stock Price Prediction – Classical + DL time series forecasting.  
+4. MNIST Image Classification – CNN with augmentation & callbacks.  
+5. Twitter Sentiment Analysis – NLP polarity classification.  
+6. Customer Segmentation – Unsupervised clustering (e.g., K-Means).  
+7. House Price Prediction – Regression modeling & feature engineering.  
+8. Credit Card Fraud Detection – Imbalanced anomaly classification (baseline).  
+9. World Happiness Report EDA – Exploratory global metric analysis.  
+10. COVID-19 Time Series – Trend & forecasting exploration.  
+11. Fake News Detection – NLP supervised text classification.  
+12. Air Quality Prediction – Regression / temporal modeling.  
+13. Heart Disease Prediction – Medical risk classification (ethics added).  
+14. Customer Churn Prediction – Retention modeling with class imbalance.  
+15. Sales Prediction – Demand / sales forecasting.  
+16. Employee Attrition Prediction – HR risk modeling (expanding).  
+17. Spam Detection – Text classification (20 Newsgroups subset).  
+18. Credit Scoring – Probability of default modeling (fairness focus).  
+19. Time Series Forecasting – Generic framework (ARIMA/SARIMAX).  
+20. Movie Review Sentiment – IMDb sentiment with DL upgrades planned.  
+21. Image Captioning – CV + NLP seq2seq (BLEU evaluation).  
+22. Recommender System (Advanced) – Embeddings + ranking metrics.  
+23. Credit Card Fraud Detection (Advanced) – Extended imbalance strategies (may merge with 08).  
+24. Retail Customer Segmentation – RFM + clustering (distinct retail scope).  
+25. Text Summarization – Seq2Seq / Transformer summarization (ROUGE).  
+26. Machine Translation – NMT (Transformer / seq2seq).  
+27. Object Detection – Detection (mAP evaluation).  
+28. Predictive Maintenance – Failure / RUL modeling.  
+29. Anomaly Detection – Unsupervised isolation / scoring.  
+30. Project Template – Standardized scaffolding.
 
-2. **Movie Recommendation System**  
-   Build a recommender using collaborative filtering and content-based methods.  
-   *Skills: Recommender systems, similarity metrics, matrix factorization.*
+Duplicate Domain Note: (08 & 23) Fraud; (06 & 24) Segmentation. Advanced folders add deeper techniques; may be merged later.
 
-3. **Stock Price Prediction**  
-   Forecast stock prices using historical data and time series models.  
-   *Skills: Time series analysis, LSTM, ARIMA, data visualization.*
-
-4. **Image Classification with MNIST**  
-   Recognize handwritten digits with neural networks on the MNIST dataset.  
-   *Skills: Deep learning, CNNs, image preprocessing.*
-
-5. **Sentiment Analysis on Twitter Data**  
-   Classify tweet sentiment (positive/negative/neutral) using NLP.  
-   *Skills: Text preprocessing, word embeddings, classification, NLP.*
-
-6. **Customer Segmentation**  
-   Group customers based on purchase behavior using clustering.  
-   *Skills: K-means, hierarchical clustering, visualization.*
-
-7. **House Price Prediction**  
-   Estimate house prices from real estate features.  
-   *Skills: Regression, feature selection, model evaluation.*
-
-8. **Credit Card Fraud Detection**  
-   Detect fraudulent transactions using anomaly detection and classification.  
-   *Skills: Imbalanced data, outlier detection, classification metrics.*
-
-9. **World Happiness Report EDA**  
-   Analyze global happiness scores and factors influencing them.  
-   *Skills: EDA, data visualization, correlation analysis.*
-
-10. **COVID-19 Cases Time Series Analysis**  
-    Visualize and forecast COVID-19 trends.  
-    *Skills: Time series, forecasting, data visualization.*
-
-11. **Fake News Detection**  
-    Determine the veracity of news articles using NLP and ML.  
-    *Skills: NLP, text classification, TF-IDF, pipeline modeling.*
-
-12. **Air Quality Prediction**  
-    Predict air quality index (AQI) based on environmental data.  
-    *Skills: Regression, feature engineering, time series.*
-
-13. **Breast Cancer Classification**  
-    Classify tumors as benign or malignant using medical data.  
-    *Skills: Binary classification, ROC curves, model evaluation.*
-
-14. **Loan Default Prediction**  
-    Predict loan default risk for banking clients.  
-    *Skills: Classification, handling missing data, feature selection.*
-
-15. **Retail Sales Forecasting**  
-    Forecast sales for a retail store chain.  
-    *Skills: Time series, regression, trend analysis.*
-
-16. **Optical Character Recognition (OCR)**  
-    Extract text from images using deep learning.  
-    *Skills: CNNs, Tesseract OCR, image preprocessing.*
-
-17. **Churn Prediction for Telecom Customers**  
-    Predict if a customer will leave the company.  
-    *Skills: Classification, feature engineering, imbalanced data.*
-
-18. **Predicting Heart Disease**  
-    Use clinical data to predict heart disease risk.  
-    *Skills: Classification, medical data, feature selection.*
-
-19. **Resume Parser with NLP**  
-    Extract structured information from resume text.  
-    *Skills: NLP, regex, named entity recognition.*
-
-20. **Uber Data Analysis**  
-    Analyze Uber ride data for trends and insights.  
-    *Skills: Data cleaning, visualization, geospatial analysis.*
-
-21. **Object Detection in Images**  
-    Detect multiple objects in images using deep learning.  
-    *Skills: CNNs, YOLO/SSD, bounding boxes.*
-
-22. **Music Genre Classification**  
-    Classify songs into genres based on audio features.  
-    *Skills: Signal processing, classification, feature extraction.*
-
-23. **Predicting Bike Sharing Demand**  
-    Forecast bike rental demand based on weather and time.  
-    *Skills: Regression, time series, feature engineering.*
-
-24. **Text Summarization**  
-    Generate concise summaries from long documents.  
-    *Skills: NLP, extractive/abstractive summarization, transformers.*
-
-25. **Weather Data Analysis & Forecasting**  
-    Analyze and predict weather conditions.  
-    *Skills: Time series, regression, visualization.*
-
-26. **Topic Modeling on News Articles**  
-    Discover hidden topics in large text corpora.  
-    *Skills: NLP, LDA, unsupervised learning.*
-
-27. **Disease Outbreak Prediction**  
-    Predict outbreaks based on environmental and health data.  
-    *Skills: Classification, time series, geospatial analysis.*
-
-28. **Food Calorie Estimator from Images**  
-    Estimate calorie count from food photos using deep learning.  
-    *Skills: CNNs, regression, transfer learning.*
-
-29. **Book Recommendation Engine**  
-    Suggest books to users based on their preferences.  
-    *Skills: Recommender systems, NLP, collaborative filtering.*
-
-30. **Dashboard for Global Terrorism Analysis**  
-    Create an interactive dashboard to visualize terrorism data.  
-    *Skills: Data visualization, dashboarding (Plotly Dash, Streamlit), EDA.*
+See `PROJECT_INDEX.md` for live status, metrics needs, and remediation tasks.
 
 ---
 

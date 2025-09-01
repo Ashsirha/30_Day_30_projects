@@ -45,3 +45,11 @@ This project uses the **AI4I 2020 Predictive Maintenance Dataset** from the UCI 
 - Seaborn
 - Scikit-learn
 - Jupyter Notebook
+
+## Metrics
+Primary: Recall for failure class, PR-AUC. Secondary: ROC-AUC, Precision, F1, lead time distribution.
+
+## Enhancements
+- Survival analysis for time-to-failure (Cox model) vs binary classification
+- Feature importance via SHAP for sensor signals
+- Remaining Useful Life (RUL) regression extension

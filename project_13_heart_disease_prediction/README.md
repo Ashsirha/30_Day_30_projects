@@ -41,3 +41,9 @@ The dataset to be used is the "Heart Disease UCI" dataset, which is a popular da
 - Seaborn
 - Scikit-learn
 - Jupyter Notebook
+
+## Evaluation & Metrics
+Recommended metrics: ROC-AUC (primary), F1, Precision/Recall, Calibration Curve (reliability of risk probabilities). Provide confusion matrix at a clinically meaningful threshold (e.g., maximize recall >= 0.85 while monitoring precision).
+
+## Ethical & Clinical Considerations
+This model is not a diagnostic tool. It should augment—not replace—clinical judgment. Ensure no protected attributes (race, etc.) are used directly; evaluate performance parity across demographic subgroups if such attributes are available. Always validate with external cohort before deployment.
