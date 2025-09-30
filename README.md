@@ -60,73 +60,73 @@ Below is a list of all 30 projects with a short description and key skills you'l
     Predict air quality index (AQI) based on environmental data.  
     *Skills: Regression, feature engineering, time series.*
 
-13. **Breast Cancer Classification**  
-    Classify tumors as benign or malignant using medical data.  
-    *Skills: Binary classification, ROC curves, model evaluation.*
+13. **Heart Disease Prediction**  
+    Build a machine learning model to predict heart disease based on medical attributes.  
+    *Skills: Binary classification, medical data analysis, feature selection.*
 
-14. **Loan Default Prediction**  
-    Predict loan default risk for banking clients.  
-    *Skills: Classification, handling missing data, feature selection.*
+14. **Customer Churn Prediction**  
+    Predict which bank customers are likely to leave the bank.  
+    *Skills: Classification, feature engineering, imbalanced data handling.*
 
-15. **Retail Sales Forecasting**  
-    Forecast sales for a retail store chain.  
-    *Skills: Time series, regression, trend analysis.*
+15. **Sales Prediction**  
+    Predict retail store sales using historical data and external factors.  
+    *Skills: Regression, time series features, data preprocessing.*
 
-16. **Optical Character Recognition (OCR)**  
-    Extract text from images using deep learning.  
-    *Skills: CNNs, Tesseract OCR, image preprocessing.*
+16. **Employee Attrition Prediction**  
+    Analyze HR data to predict which employees are likely to leave.  
+    *Skills: Classification, feature analysis, business insights.*
 
-17. **Churn Prediction for Telecom Customers**  
-    Predict if a customer will leave the company.  
-    *Skills: Classification, feature engineering, imbalanced data.*
+17. **Spam Detection**  
+    Classify emails or messages as spam or legitimate using NLP.  
+    *Skills: Text classification, TF-IDF, machine learning pipelines.*
 
-18. **Predicting Heart Disease**  
-    Use clinical data to predict heart disease risk.  
-    *Skills: Classification, medical data, feature selection.*
+18. **Credit Scoring**  
+    Develop a model to assess creditworthiness of loan applicants.  
+    *Skills: Classification, financial data, risk assessment.*
 
-19. **Resume Parser with NLP**  
-    Extract structured information from resume text.  
-    *Skills: NLP, regex, named entity recognition.*
+19. **Time Series Forecasting**  
+    Forecast future values using historical time series data.  
+    *Skills: ARIMA modeling, seasonality, statistical forecasting.*
 
-20. **Uber Data Analysis**  
-    Analyze Uber ride data for trends and insights.  
-    *Skills: Data cleaning, visualization, geospatial analysis.*
+20. **Sentiment Analysis of Movie Reviews**  
+    Classify movie reviews as positive or negative using NLP.  
+    *Skills: Text preprocessing, word embeddings, binary classification.*
 
-21. **Object Detection in Images**  
-    Detect multiple objects in images using deep learning.  
-    *Skills: CNNs, YOLO/SSD, bounding boxes.*
+21. **Image Captioning**  
+    Generate descriptive captions for images using deep learning.  
+    *Skills: CNNs, RNNs, sequence-to-sequence models, computer vision.*
 
-22. **Music Genre Classification**  
-    Classify songs into genres based on audio features.  
-    *Skills: Signal processing, classification, feature extraction.*
+22. **Recommender System**  
+    Build recommendation systems using collaborative and content-based filtering.  
+    *Skills: Matrix factorization, similarity metrics, recommendation algorithms.*
 
-23. **Predicting Bike Sharing Demand**  
-    Forecast bike rental demand based on weather and time.  
-    *Skills: Regression, time series, feature engineering.*
+23. **Credit Card Fraud Detection**  
+    Detect fraudulent credit card transactions using anomaly detection.  
+    *Skills: Imbalanced data, anomaly detection, classification metrics.*
 
-24. **Text Summarization**  
-    Generate concise summaries from long documents.  
-    *Skills: NLP, extractive/abstractive summarization, transformers.*
+24. **Customer Segmentation (Retail)**  
+    Segment retail customers based on purchasing behavior.  
+    *Skills: K-means clustering, RFM analysis, customer analytics.*
 
-25. **Weather Data Analysis & Forecasting**  
-    Analyze and predict weather conditions.  
-    *Skills: Time series, regression, visualization.*
+25. **Text Summarization**  
+    Generate concise summaries from long articles using NLP.  
+    *Skills: Sequence-to-sequence models, attention mechanisms, ROUGE metrics.*
 
-26. **Topic Modeling on News Articles**  
-    Discover hidden topics in large text corpora.  
-    *Skills: NLP, LDA, unsupervised learning.*
+26. **Machine Translation**  
+    Translate text between languages using neural networks.  
+    *Skills: Seq2Seq models, attention, encoder-decoder architecture.*
 
-27. **Disease Outbreak Prediction**  
-    Predict outbreaks based on environmental and health data.  
-    *Skills: Classification, time series, geospatial analysis.*
+27. **Object Detection**  
+    Detect and locate objects in images using computer vision.  
+    *Skills: CNNs, bounding boxes, pre-trained models, transfer learning.*
 
-28. **Food Calorie Estimator from Images**  
-    Estimate calorie count from food photos using deep learning.  
-    *Skills: CNNs, regression, transfer learning.*
+28. **Predictive Maintenance**  
+    Predict machine failures before they occur using sensor data.  
+    *Skills: Classification, sensor data analysis, maintenance optimization.*
 
-29. **Book Recommendation Engine**  
-    Suggest books to users based on their preferences.  
-    *Skills: Recommender systems, NLP, collaborative filtering.*
+29. **Anomaly Detection**  
+    Identify unusual patterns or outliers in data.  
+    *Skills: Unsupervised learning, outlier detection, statistical methods.*
 
 30. **Dashboard for Global Terrorism Analysis**  
     Create an interactive dashboard to visualize terrorism data.  
@@ -136,11 +136,12 @@ Below is a list of all 30 projects with a short description and key skills you'l
 
 ## 🗂️ Repository Structure
 
-- **/Project_X/** – Each project is in a separate folder (e.g., `/Project_01_Titanic/`)
+- **/project_XX_name/** – Each project is in a separate folder (e.g., `/project_01_titanic_survival/`)
 - **.ipynb files** – Jupyter Notebooks with code, visualizations, and explanations
-- **README.md** – Brief overview for each project
+- **README.md** – Brief overview for each project with objectives, dataset details, and technologies
 - **/data/** – Sample datasets or download scripts (where permitted)
 - **requirements.txt** – Core dependencies for all projects
+- **project_template/** – Template structure for creating new projects
 - **LICENSE** – MIT License
 
 ---
